@@ -1,5 +1,5 @@
 ## Hey, there stranger
-I am a **Self-taught Full-Stack developer** from Bangladesh who began coding as a hobby.
+I am a **Self-taught developer** from Bangladesh who began coding as a hobby.
 
 - 🌱 &nbsp;I've created few static and dynamic sites using <a href="https://react.dev/">react</a> and <a href="https://nodejs.org/">nodejs</a>.
 - 📚 &nbsp;I’m currently learning <a href="https://flutter.dev/">Flutter</a>.
