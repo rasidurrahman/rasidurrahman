@@ -1,5 +1,4 @@
-## Hey, there <a href="https://rasidurrahman.github.io/"><img src="https://s11.gifyu.com/images/ScJav.gif" width="3%"></a>
-
+## Hey, there stranger
 I am a **Self-taught Full-Stack developer** from Bangladesh who began coding as a hobby.
 
 - 🌱 &nbsp;I've created few static and dynamic sites using <a href="https://react.dev/">react</a> and <a href="https://nodejs.org/">nodejs</a>.
