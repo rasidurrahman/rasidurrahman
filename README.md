@@ -1,4 +1,4 @@
-## Hey, there stranger
+## Hey, 👋
 I am a **Self-taught developer** from Bangladesh who began coding as a hobby.
 
 - 🌱 &nbsp;I've created few static and dynamic sites using <a href="https://react.dev/">react</a> and <a href="https://nodejs.org/">nodejs</a>.
